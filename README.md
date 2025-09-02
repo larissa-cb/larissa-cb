@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Larissa</h1>
-<h3 align="center">A passionate data analyst from Brazil</h3>
+<h3 align="center">A passionate data scientist</h3>
 
 - 🔭 I’m currently working on **building up GitHub profile with data**
 
