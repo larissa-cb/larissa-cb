@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **on e-mail or LinkedIn**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/larissa-br/](https://www.linkedin.com/in/larissa-br/)
+- 📄 Know about my experiences [https://prowebsit.wixsite.com/lariportfolio)
 
 - ⚡ Fun fact **I enjoy swimming when I am not studying**
 
