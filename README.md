@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **building up GitHub profile with data**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **any of the presented data-analysis projects or open to other projects**
 
-- 🤝 I’m looking for help with **Python and SQL**
+- 🤝 I’m looking for help with **Deep Learning and SQL**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/larissa-br/](https://www.linkedin.com/in/larissa-br/)
 
