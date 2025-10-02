@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Larissa!
-👩🏻‍💻 Data Science sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Data Sciencist sharing about my journey and learnings in tech<br/>
 
 👩🏻‍🎓 Studied Data Science at the University of Complutense de Madrid, Spain<br/>
 
