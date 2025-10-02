@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Larissa!
 👩🏻‍💻 Data Science sharing about my journey and learnings in tech<br/>
 
-👩🏻‍🎓 Studied [Data Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Complutense de Madrid, Spain<br/>
+👩🏻‍🎓 Studied Data Science at the University of Complutense de Madrid, Spain<br/>
 
 🎨 Know about my experiences [https://prowebsit.wixsite.com/lariportfolio)
 
@@ -30,3 +30,4 @@
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
