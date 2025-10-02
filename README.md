@@ -9,6 +9,8 @@
 
 💭 All of my projects are available at [https://www.linkedin.com/in/larissa-br/](https://www.linkedin.com/in/larissa-br/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissa-cb&show_icons=true&theme=nightowl)
+
 # 💻 Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
