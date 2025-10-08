@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Larissa!
 👩🏻‍💻 Data Scientist sharing about my journey and learnings in tech<br/>
 
-👩🏻‍🎓 Studied Data Science at the University of Complutense de Madrid, Spain<br/>
+👩🏻‍🎓 Studied Data Science at the University of Complutense of Madrid, Spain<br/>
 
 🎨 Know about my experiences [https://prowebsit.wixsite.com/lariportfolio)
 
@@ -21,6 +21,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
